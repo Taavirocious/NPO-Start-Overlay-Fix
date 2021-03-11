@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.01
 // @icon https://www.npostart.nl/images/npo_logo_40x40.png
-// @description  Fixes the very intrusive grey gradient overlay with a less intrusive look.
+// @description  Fixes the very intrusive grey gradient overlay with a more reserved look.
 // @author       Taavirocious
 // @match        https://start-player.npo.nl/embed/*
 // @grant        none
