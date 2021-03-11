@@ -4,7 +4,7 @@
 // @version      1.0
 // @icon https://www.npostart.nl/images/npo_logo_40x40.png
 // @description  Fixes the very intrusive grey gradient overlay with a more reserved look.
-// @author       Me
+// @author       Taavirocious
 // @match        https://start-player.npo.nl/embed/*
 // @grant        none
 // ==/UserScript==
